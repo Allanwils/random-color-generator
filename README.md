@@ -17,3 +17,7 @@ Clone the repository to your local machine
 run :  npm install
 
 then run : npm run dev
+
+# You can view the Random Color Generator on this link below:
+
+https://randomcolors-app.netlify.app
