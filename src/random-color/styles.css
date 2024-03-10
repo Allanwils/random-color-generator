@@ -1,0 +1,21 @@
+.container {
+  width: 75vw;
+  height: 75vh;
+  background-color: #f0f0f081;
+  margin-top: 20px;
+  
+}
+.hexColor, .rgbColor, .randomColor {
+    font-size: 1rem;
+    margin: 0 1rem;
+    margin-top: 20px;
+}
+.hexColor{
+    background-color: aqua;
+}
+.rgbColor{
+    background-color: aquamarine;
+}
+.randomColor{
+    background-color: lightcoral;
+}
